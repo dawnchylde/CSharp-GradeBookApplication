@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <None Remove="*.gdbk" />
+    <None Remove="Enums\appsettings.json" />
   </ItemGroup>
 
   <ItemGroup>
